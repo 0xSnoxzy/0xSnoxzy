@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xSnoxzy
 - 👀 I’m interested in cybersecurity, hacking and technical things :)
-- 🌱 I’m currently learning red teaming and pentesting
 - 📫 idk what to say, i like to solve problems and puzzles and learning new things.
 
 <!---
